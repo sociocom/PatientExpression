@@ -1,16 +1,12 @@
 import sys
-sys.path.append('../')
-import os
+sys.path.append('../../')
 #print(os.getcwd())
-from flask_test import dictionaries, make_advice
-from flask import Flask, request, render_template, session
-from flask_restful import Api, Resource, abort, reqparse
+from flask.flask_test import dictionaries, make_advice
+from flask import Flask, request
+from flask_restful import Api, Resource, reqparse
 from datetime import datetime
 import hashlib
 import re
-import numpy
-import json
-import string
 
 app = Flask(__name__)
 api = Api(app)
@@ -58,7 +54,7 @@ class API(Resource):
         args = query_post_args.parse_args()
         user_id = args['Form']['UserId']
         hs = hashlib.sha224(args['MessageId'].encode()).hexdigest()
-        with open('log.json','a') as f:
+        with open('log.json', 'a') as f:
             f.write(request.data.decode() + '\n')
         output_dict = {}
         input_text = request.json['Text']
