@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<h3> {{ input_text }} </h3>
+<h2> {{ output_message }} </h2>
+<ul>
+    {% for key, value in output.items() %}
+      <li>{{ value[1] }} {{ value[2]}} {{ key }} {{ value[0] }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}

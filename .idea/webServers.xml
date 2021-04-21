@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff0a8db2-d247-4ea3-8263-c50ab25dcee2" name="aoi">
+        <fileTransfer rootFolder="/home/is/s-hisada" accessType="SFTP" host="aoi.naist.jp" port="22" sshConfigId="c05a84e6-6a03-46ce-acf0-72751a069c66" sshConfig="s-hisada@aoi.naist.jp:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

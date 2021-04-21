@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block content %}
+<h3> {{ input_text }} </h3>
+<h2> 患者表現リストは以下の通りです </h2>
+<ul>
+    {% for key, value in output.items() %}
+        <h2>{{ key }}{{ value[0] }}</h2>
+            {% for name in value[1] %}
+                <li>{{ name }}</li>
+            {% endfor %}
+    {% endfor %}
+</ul>
+{% endblock %}

@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+{% block content %}
+<h3> {{ input_text }} </h3>
+<h2> {{ output_message }} </h2>
+    <form method="post">
+    <ul>
+        {% for i in question %}
+        <il><label for={{ loop.index }}> {{ i[0] }}：</label></il>
+        <input type="radio" id={{ loop.index }} name="radio" value={{ i[1] }}>
+        {% endfor %}
+    </ul>
+        <input type = "submit" value = "送信">
+<!--        <label for="r2">顔：</label>
+        <input type="radio" id="r2" name="radio" value="顔が痛い"><br>
+        <label for="r3">眼：</label>
+        <input type="radio" id="r3" name="radio" value="眼が痛い"><br>
+        <label for="r4">耳：</label>
+        <input type="radio" id="r4" name="radio" value="耳が痛い"><br>
+        <label for="r5">のど：</label>
+        <input type="radio" id="r5" name="radio" value="のどが痛い"><br>
+        <label for="r6">舌：</label>
+        <input type="radio" id="r6" name="radio" value="舌が痛い"><br>
+        <label for="r7">首：</label>
+        <input type="radio" id="r7" name="radio" value="首が痛い"><br>
+        <label for="r8">関節：</label>
+        <input type="radio" id="r8" name="radio" value="関節痛"><br>
+        <label for="r9">腕：</label>
+        <input type="radio" id="r9" name="radio" value="腕が痛い"><br>
+        <label for="r10">筋肉：</label>
+        <input type="radio" id="r10" name="radio" value="筋肉痛"><br>
+        <label for="r11">手：</label>
+        <input type="radio" id="r11" name="radio" value="手が痛い"><br>
+        <input type = "submit" value = "送信">
+        </form>
+-->
+<h3> {{ normalized }} </h3>
+{% endblock %}

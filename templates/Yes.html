@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+{% block content %}
+<h3>どんなうどんですか</h3>
+    <form method="post">
+        <label for="r1">かけうどん：</label>
+        <input type="radio" id="r1" name="radio" value="かけ">
+        <label for="r2">月見うどん：</label>
+        <input type="radio" id="r2" name="radio" value="月見">
+        <label for="r2">ざるうどん：</label>
+        <input type="radio" id="r3" name="radio" value="ざる">
+        <input type = "submit" value = "送信">
+    </form>
+<h3> {{ normalized }} </h3>
+{% endblock %}
