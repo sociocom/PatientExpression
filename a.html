@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flask Test</title>
+</head>
+<body>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script>
+    $.ajax({
+        url: 'http://127.0.0.1:8080',
+        type: 'GET'
+    })
+        .done((data, textStatus, jqXHR) => {
+            console.log(data);
+        })
+        .fail((jqXHR, textStatus, errorThrown) => {
+            console.log(jqXHR.status);
+        })
+</script>
+</body>
+</html>

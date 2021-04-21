@@ -1,0 +1,1810 @@
+{
+    "Form": {
+        "UserId": "a",
+        "Sex": "\u7537",
+        "BirthYear": "20\u4ee3"
+    },
+    "MessageId": "a",
+    "ReplyToken": "",
+    "Text": "\u982d\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "a",
+        "Sex": "\u7537",
+        "BirthYear": "20\u4ee3"
+    },
+    "MessageId": "a",
+    "ReplyToken": "",
+    "Text": "\u982d\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "a",
+        "Sex": "\u7537",
+        "BirthYear": "20\u4ee3"
+    },
+    "MessageId": "a",
+    "ReplyToken": "",
+    "Text": "\u982d\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "string",
+        "Sex": "string",
+        "BirthYear": 0,
+        "PostalCode": 0
+    },
+    "MessageId": "string",
+    "ReplyToken": "string",
+    "Text": "string",
+    "Inverted": true,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123-456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123-456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123-456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123-456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123-456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "null",
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": null,
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "BirthYear": 2021,
+        "Sex": "male",
+        "PostalCode": "123-456",
+        "UserId": "abcd"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "Sex": "male",
+        "UserId": "abcd",
+        "BirthYear": 2021,
+        "PostalCode": "123-456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "PostalCode": "123-456",
+        "UserId": "abcd",
+        "BirthYear": 2021,
+        "Sex": "male"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123-456",
+        "UserId": "abcd"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "1234",
+        "PostalCode": "1230022",
+        "Sex": "male",
+        "BirthYear": 1991
+    },
+    "MessageId": "test",
+    "ReplyToken": "null",
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "1234",
+        "PostalCode": "1230022",
+        "Sex": "male",
+        "BirthYear": 1991
+    },
+    "MessageId": "test",
+    "ReplyToken": "null",
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "1234",
+        "PostalCode": "1230022",
+        "Sex": "male",
+        "BirthYear": 1991
+    },
+    "MessageId": "test",
+    "ReplyToken": "",
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "1234",
+        "PostalCode": "1230022",
+        "Sex": "male",
+        "BirthYear": 1991
+    },
+    "MessageId": "test",
+    "ReplyToken": "",
+    "Text": "\u8155\u306e\u602a\u6211",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "a",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "a",
+    "Inverted": true,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "a",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": null,
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u9854\u9762\u632b\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd123",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": 1
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c, \u8170",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c \u8170",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c, \u8170",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u8170\u90e8\u640d\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u8170\u90e8\u640d\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abc",
+    "ReplyToken": "",
+    "Text": "\u8170\u90e8\u640d\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abc",
+    "ReplyToken": "",
+    "Text": "\u8170\u90e8\u640d\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u8170\u90e8\u640d\u50b7",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u8170\u304c\u75db\u3044",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": "2021",
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": "2021",
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e60",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": "2021",
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": "2021",
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e60",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": "2021",
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": "2021",
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e60",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": "2021",
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": "\u982d\u90e8\u5916\u50b7",
+    "Inverted": false,
+    "SequenceCount": null
+}{
+    "Form": {
+        "UserId": "9CD9ED8F-1BBD-4332-8225-B61A1F9B76EB",
+        "PostalCode": "123456",
+        "Sex": "\u7537",
+        "BirthYear": 1236
+    },
+    "MessageId": "DF0780C1-3721-4858-9031-D7AC9A961FE8",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{
+    "Form": {
+        "UserId": "9CD9ED8F-1BBD-4332-8225-B61A1F9B76EB",
+        "PostalCode": "123456",
+        "Sex": "\u7537",
+        "BirthYear": 1236
+    },
+    "MessageId": "DF0780C1-3721-4858-9031-D7AC9A961FE8",
+    "ReplyToken": "",
+    "Text": "\u3051\u304c",
+    "Inverted": false,
+    "SequenceCount": 0
+}{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰が痛い"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["不明熱"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰痛"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{"ReplyToken":"","Text":["ケガ"],"SequenceCount":0,"Form":{"UserId":"8A414ED9-3C9D-44D1-A068-80ABDF52B393","PostalCode":"1230022","Sex":"男","BirthYear":1111},"MessageId":"3946474F-CB8E-40BA-8016-1B7D149EE53F","Inverted":false}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["ケガ"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["ケガ"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰が痛い"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": ["頭部外傷"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"ReplyToken":"","MessageId":"6657DD7E-115C-41A2-977F-83EC4F1E85BD","SequenceCount":0,"Inverted":false,"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Text":["ケガ"]}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": ["ケガ"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["ケガ"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"Inverted":false,"Text":["けが"],"MessageId":"27521009-48B4-4940-B89F-89E4C5E1DD98","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"SequenceCount":0,"ReplyToken":""}
+{"Text":["けが"],"MessageId":"18E90722-659A-47D2-9512-AE4B1ABEE26D","Inverted":false,"SequenceCount":0,"ReplyToken":"","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234}}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["頭が痛い"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のけが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"MessageId":"07A7B99B-7E05-4FE9-935F-91BD90BAE3CE","SequenceCount":0,"ReplyToken":"","Inverted":false,"Text":["けが"],"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234}}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のけが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"SequenceCount":0,"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"ReplyToken":"","Inverted":false,"MessageId":"4C228790-748B-4FBC-9732-B8CD55CBBD6E","Text":["腰のけが"]}
+{"MessageId":"A27AF779-E7FA-423D-8CEA-CE32D77013BC","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Text":["腰のけが"],"Inverted":false,"SequenceCount":0,"ReplyToken":""}
+{"ReplyToken":"","Inverted":false,"SequenceCount":0,"Text":["腰のケガ"],"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"MessageId":"F488DFED-F228-4FD6-A0CF-22C0C2CF95B6"}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のケガ"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"SequenceCount":0,"MessageId":"DAA7137D-E98C-4694-BF8E-79457CBD822B","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"ReplyToken":"","Inverted":false,"Text":["腰のけが"]}
+{"MessageId":"F26E3185-09C8-4804-9128-6C0CB7175CC6","SequenceCount":0,"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Text":["腰のけが"],"ReplyToken":"","Inverted":false}
+{"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Inverted":false,"MessageId":"3E4B2C91-1EBB-4222-9E48-FF9D97489993","SequenceCount":0,"ReplyToken":"","Text":["腰のけが"]}
+{"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"MessageId":"13632E65-412A-48D6-9CF4-0BCB0710A4DE","Inverted":false,"Text":["けが"],"SequenceCount":0,"ReplyToken":""}
+{"Inverted":false,"SequenceCount":0,"MessageId":"A9F86B13-28B6-4B84-9C95-CCD9B3E17503","ReplyToken":"","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Text":["けが"]}
+{"SequenceCount":0,"ReplyToken":"","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Text":["けが"],"Inverted":false,"MessageId":"414632CB-51CC-4E1C-894C-2347CAAA5905"}
+{"Inverted":false,"Text":["けが"],"SequenceCount":0,"ReplyToken":"","MessageId":"989C4CA2-B8B7-4BC4-9D5A-3C1D1956E764","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234}}
+{"Text":["けが"],"ReplyToken":"","MessageId":"77F168AF-08BA-40D8-ADD6-1D2465F31049","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Inverted":false,"SequenceCount":0}
+{"Text":["けが"],"MessageId":"9878B0FA-9864-4B27-A324-ABB94597C58B","ReplyToken":"","SequenceCount":0,"Inverted":false,"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234}}
+{"MessageId":"46E53E1D-0D28-419D-8BC4-E268D9C0A48F","ReplyToken":"","Inverted":false,"Text":["腰のけが"],"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"SequenceCount":0}
+{"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"SequenceCount":0,"MessageId":"7CD56CDC-59E0-4A3E-8E00-EAE1C81A05F4","Text":["けが"],"ReplyToken":"","Inverted":false}
+{"SequenceCount":0,"Inverted":false,"Text":["けが"],"ReplyToken":"","MessageId":"CFC9172C-8687-4037-8281-7BAD7B7F52CA","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234}}
+{"Text":["けが"],"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"SequenceCount":0,"Inverted":false,"ReplyToken":"","MessageId":"92F23D72-4924-4891-BC34-AA993F2F91E2"}
+{"Inverted":false,"ReplyToken":"","SequenceCount":0,"MessageId":"2CD25A71-7784-4F3A-89F7-14712476CF6A","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Text":["けが"]}
+{"ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601", "Text": ["\u9854\u9762\u632b\u50b7"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"ReplyToken": "", "Text": ["\u9854\u9762\u632b\u50b7"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"ReplyToken": "", "Text": ["\u9854\u9762\u632b\u50b7"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"ReplyToken": "", "Text": ["\u3051\u304c"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のケガ"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のケガ"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰痛"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰痛挫傷"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["頭痛"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["頭痛"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["頭部外傷"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["尿道外傷"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"MessageId":"2DCF6D8E-D4AE-4BAF-AD0B-3DB4B4D4D650","Inverted":false,"ReplyToken":"","Text":["けが"],"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"SequenceCount":0}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"Inverted":false,"ReplyToken":"","MessageId":"A8F8DB32-A525-48AB-93B0-A59E82DEA7F5","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Text":["腰が痛い"],"SequenceCount":0}
+{"ReplyToken":"","Text":["ケガ"],"Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Inverted":false,"SequenceCount":0,"MessageId":"92132E1A-2DC5-4A0B-808C-1164E7A1066D"}
+{"SequenceCount":0,"MessageId":"D12BF971-46FD-4C88-ACB3-CBF529E07CAE","Text":["腰のケガ"],"ReplyToken":"","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234},"Inverted":false}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰の怪我"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"Text":["腰の怪我"],"SequenceCount":0,"Inverted":false,"MessageId":"413B3054-1248-4951-AADA-B23B454C14C1","ReplyToken":"","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234}}
+{"Text":["腰の怪我　"],"SequenceCount":0,"Inverted":false,"MessageId":"F96D594B-E966-44DD-84B5-D01D3B9FCA82","ReplyToken":"","Form":{"UserId":"06D588E5-FE42-44F0-968B-464273FCE7EA","PostalCode":"1242134","Sex":"男","BirthYear":1234}}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰, けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰", "けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のけが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"ReplyToken":"","Text":["腰のけが"],"SequenceCount":0,"Inverted":false,"MessageId":"DD48822F-420D-44DE-9C68-BCA5110A8D0C","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"ReplyToken":"","Inverted":false,"SequenceCount":0,"MessageId":"03F11A41-1903-4720-99A8-9EDE723505C5","Text":["腰のけが"],"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"Inverted":false,"Text":["けが"],"MessageId":"D2C4F4B0-3FCC-4500-B099-0BB3196D79DE","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"ReplyToken":"","SequenceCount":0}
+{"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"Inverted":false,"MessageId":"10EE88EA-5FD3-43BD-9165-24121254C931","ReplyToken":"","SequenceCount":0,"Text":["けが "]}
+{"ReplyToken":"","SequenceCount":0,"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"MessageId":"30759353-8B97-4D04-BE21-7797B2916D93","Inverted":false,"Text":["けが"]}
+{"Text":["けが"],"ReplyToken":"","SequenceCount":0,"Inverted":false,"MessageId":"FAB04BC4-63BB-43F6-A331-626F296F290F","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"ReplyToken":"","SequenceCount":0,"Inverted":false,"MessageId":"3AC9204A-B9E7-4551-92B3-F62127865BA4","Text":["けが"]}
+{"MessageId":"EA0CCCF6-AAEF-4878-8317-A80B661F59DF","Inverted":false,"Text":["腰のけが"],"ReplyToken":"","SequenceCount":0,"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のけが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"SequenceCount":0,"Text":["けが"],"ReplyToken":"","Inverted":false,"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"MessageId":"D13DC4CD-1FC4-4F6B-A0EF-975AF7CDB464"}
+{"Text":["けが"],"Inverted":false,"MessageId":"A38B8974-1A24-4139-A5B6-298A37427192","SequenceCount":0,"ReplyToken":"","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"Text":["頸部外傷"],"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"ReplyToken":"5ee36025f14bb7ae508496a724271debabb7a6bbae2d3eb82babca77","SequenceCount":0,"MessageId":"A38B8974-1A24-4139-A5B6-298A37427192","Inverted":false}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": ["頭部外傷"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のけが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": ["頭部外傷"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": ["頭部外傷"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"SequenceCount":0,"ReplyToken":"","Text":["けが"],"MessageId":"295C60A3-8DAB-400B-B12A-CBFEF6CAB048","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"Inverted":false}
+{"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"MessageId":"28DEC4EF-558B-4DAA-AF07-88E51CBE2886","Inverted":false,"SequenceCount":0,"Text":["けが"],"ReplyToken":""}
+{"ReplyToken":"c61eb60b310c9ec5e22127c3ec9a4135629e8d1727126a2b0b13501e","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"SequenceCount":0,"Inverted":false,"Text":["頭部外傷"],"MessageId":"28DEC4EF-558B-4DAA-AF07-88E51CBE2886"}
+{"MessageId":"3B4B8BB3-04BB-4B6A-BF5A-1E6D150EE151","Text":["けが"],"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"SequenceCount":0,"Inverted":false,"ReplyToken":""}
+{"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"ReplyToken":"15523e0f2695b620af459735fc577c2f349bb16c6ef7687cd8a1ffc0","Inverted":false,"SequenceCount":0,"Text":["頭部外傷"],"MessageId":"3B4B8BB3-04BB-4B6A-BF5A-1E6D150EE151"}
+{"MessageId":"3BFB6C87-8143-48D0-A24B-0270E757E9DD","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"Text":["けが"],"SequenceCount":0,"ReplyToken":"","Inverted":false}
+{"MessageId":"3BFB6C87-8143-48D0-A24B-0270E757E9DD","Text":["頭部外傷"],"ReplyToken":"9202ffd68bbd4e85f21321ac787765943b4d1ece557c79d785c696c5","Inverted":false,"SequenceCount":0,"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"Text":["けが"],"ReplyToken":"","Inverted":false,"MessageId":"0EFC18AB-7D9D-4FA8-A01E-CDEFF2B5BAEC","SequenceCount":0,"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"ReplyToken":"6da4a116c56b20ea5db3b23a214a6510f87c2ece75ba3336b25d5f9d","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"SequenceCount":0,"Text":["頭部外傷"],"MessageId":"0EFC18AB-7D9D-4FA8-A01E-CDEFF2B5BAEC","Inverted":false}
+{"ReplyToken":"","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"Text":["けが"],"MessageId":"75721311-72E5-4533-9157-A099A0AA7FEC","Inverted":false,"SequenceCount":0}
+{"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"SequenceCount":0,"Text":["顔面挫傷"],"Inverted":false,"MessageId":"75721311-72E5-4533-9157-A099A0AA7FEC","ReplyToken":"708da954e7ebc997bc36955ac9ad25f0cd3d78bfce939340aea046ed"}
+{"SequenceCount":0,"MessageId":"15E3DAD2-72FE-43B4-BB63-3D38E8E73F46","ReplyToken":"","Text":["腰のけが"],"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"Inverted":false}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": ["腰のけが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のけが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"SequenceCount":0,"Inverted":false,"ReplyToken":"","Text":["けが"],"MessageId":"A5CC2406-62E2-4AE8-B949-F6BE0E2739D3"}
+{"ReplyToken":"efe4f4b7a197b9e3fd4039a8622604f8bbb3aed7e708ec16ef137b23","SequenceCount":0,"Text":["胸部外傷"],"Inverted":false,"MessageId":"A5CC2406-62E2-4AE8-B949-F6BE0E2739D3","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"MessageId":"3FCCFE3C-38D9-465E-A752-F19DE398198F","Inverted":false,"Text":["腰のけが"],"SequenceCount":0,"ReplyToken":""}
+{"MessageId":"A6D906C8-8F4A-4BE3-9611-9699D0E58272","SequenceCount":0,"Text":["けが"],"Inverted":false,"ReplyToken":"","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"MessageId":"A6D906C8-8F4A-4BE3-9611-9699D0E58272","Inverted":false,"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"SequenceCount":0,"ReplyToken":"7d3ee94e96fb92b2fbee30d08672a5ceb549b8a1f036416009b47963","Text":["尿道外傷"]}
+{"ReplyToken":"","Inverted":false,"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"MessageId":"94DA5EB7-80E3-4334-8A09-FB924DAB3BDE","Text":["けが"],"SequenceCount":0}
+{"MessageId":"94DA5EB7-80E3-4334-8A09-FB924DAB3BDE","Text":["頭部外傷"],"Inverted":false,"SequenceCount":0,"ReplyToken":"e656aa715364e57734eaa148159c7158aef853fe0a15e1f45b3a67e7","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"Inverted":false,"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"ReplyToken":"","MessageId":"F56431CE-8890-4910-8A1D-8DE2BEEB486C","SequenceCount":0,"Text":["けが"]}
+{"SequenceCount":0,"Text":["頸部外傷"],"Inverted":false,"ReplyToken":"cf9cb01d47fb9bd75c05e306f0a2cad07132961a75b57ee3d61fea0c","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"MessageId":"F56431CE-8890-4910-8A1D-8DE2BEEB486C"}
+{"SequenceCount":0,"Inverted":false,"ReplyToken":"cf9cb01d47fb9bd75c05e306f0a2cad07132961a75b57ee3d61fea0c","MessageId":"F56431CE-8890-4910-8A1D-8DE2BEEB486C","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"Text":["頭部外傷"]}
+{"SequenceCount":0,"ReplyToken":"","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"MessageId":"5182FF00-FC0C-4E65-B14E-60A64193A254","Inverted":false,"Text":["けが"]}
+{"Text":["けが"],"ReplyToken":"","Inverted":false,"SequenceCount":0,"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"MessageId":"EE2FECB6-52D1-4664-91ED-0D059FEBDBAB"}
+{"Text":["顔面挫傷"],"SequenceCount":0,"Inverted":false,"MessageId":"EE2FECB6-52D1-4664-91ED-0D059FEBDBAB","ReplyToken":"7295fb1df3720e1ee7944bd0e7e992648051bdfc3befaeb562c486f0","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993}}
+{"MessageId":"A790E84D-CAED-4204-B428-B9FF8953C7B7","Inverted":false,"Text":["けが"],"Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"ReplyToken":"","SequenceCount":0}
+{"MessageId":"A790E84D-CAED-4204-B428-B9FF8953C7B7","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"Inverted":false,"ReplyToken":"8898be715563443d183fcb6f1d9e01455d8928d5364f1f03fbf4eeb4","Text":["皮膚損傷"],"SequenceCount":0}
+{"Text":["けが"],"MessageId":"928FC2E8-85DA-4E42-B724-405CB010A0F3","Inverted":false,"ReplyToken":"","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"SequenceCount":0}
+{"Text":["尿道外傷"],"MessageId":"928FC2E8-85DA-4E42-B724-405CB010A0F3","Form":{"UserId":"1A3D22FB-B0B7-47E5-AB68-ECA6B8224022","PostalCode":"1230022","Sex":"男","BirthYear":1993},"SequenceCount":0,"ReplyToken":"3f0f3be495e243d65148ec5b45446c8314b349c05b13b4bec883223e","Inverted":false}
+{"MessageId":"8DC3DD18-D2CF-433C-B0BE-53D7C24BE590","Form":{"UserId":"B47D61AE-36EE-4C26-82F3-F273126B7FB5","PostalCode":"1234567","Sex":"男","BirthYear":1234},"ReplyToken":"","Inverted":false,"Text":["けが"],"SequenceCount":0}
+{"SequenceCount":0,"Inverted":false,"ReplyToken":"c04575da3dbbed6d6d52f02e9348bf2762ddb3f13b72fa1d4c753fbf","Text":["頭部外傷"],"MessageId":"8DC3DD18-D2CF-433C-B0BE-53D7C24BE590","Form":{"UserId":"B47D61AE-36EE-4C26-82F3-F273126B7FB5","PostalCode":"1234567","Sex":"男","BirthYear":1234}}
+{"Form":{"UserId":"B47D61AE-36EE-4C26-82F3-F273126B7FB5","PostalCode":"1234567","Sex":"男","BirthYear":1234},"Inverted":false,"MessageId":"E8CDAFCC-7828-4A26-A49C-12505E47A3D9","SequenceCount":0,"Text":[""],"ReplyToken":""}
+{"ReplyToken":"","SequenceCount":0,"Inverted":false,"MessageId":"FA2088DB-0C39-41E2-A590-6A406A13B916","Form":{"UserId":"B47D61AE-36EE-4C26-82F3-F273126B7FB5","PostalCode":"1234567","Sex":"男","BirthYear":1234},"Text":["けが"]}
+{"Inverted":false,"SequenceCount":0,"MessageId":"FA2088DB-0C39-41E2-A590-6A406A13B916","Form":{"UserId":"B47D61AE-36EE-4C26-82F3-F273126B7FB5","PostalCode":"1234567","Sex":"男","BirthYear":1234},"ReplyToken":"6ff899c9e899f1e7134a9f40b47ef78bb78fb67e52db8f615649fe94","Text":["上肢外傷"]}
+{"Inverted":false,"MessageId":"5441FDF1-716B-4B29-9640-DFF5966D0B0D","ReplyToken":"","Form":{"UserId":"FBA301E6-0B6D-48EB-91B8-8D1222496C60","PostalCode":"1232123","Sex":"男","BirthYear":1343},"SequenceCount":0,"Text":["けが"]}
+{"Inverted":false,"ReplyToken":"411af9520453f86e3096ed67e90a1ee8ebda961620bb551411a31be2","SequenceCount":0,"Text":["顔面挫傷"],"Form":{"UserId":"FBA301E6-0B6D-48EB-91B8-8D1222496C60","PostalCode":"1232123","Sex":"男","BirthYear":1343},"MessageId":"5441FDF1-716B-4B29-9640-DFF5966D0B0D"}
+{"Inverted":false,"MessageId":"B4517E3C-3C1C-444D-9FFA-A4BF93CD7F7D","ReplyToken":"","Text":["けが"],"SequenceCount":0,"Form":{"UserId":"E08C3CE2-BBDE-4287-877B-AA6C4D84CF66","PostalCode":"2345432","Sex":"男","BirthYear":1234}}
+{"SequenceCount":0,"ReplyToken":"5a2871ef6dd74d7ed1a34dab96fe3185a1bb292ea694f607340da490","MessageId":"B4517E3C-3C1C-444D-9FFA-A4BF93CD7F7D","Text":["上肢外傷"],"Inverted":false,"Form":{"UserId":"E08C3CE2-BBDE-4287-877B-AA6C4D84CF66","PostalCode":"2345432","Sex":"男","BirthYear":1234}}
+{"Text":["けが"],"Form":{"UserId":"E08C3CE2-BBDE-4287-877B-AA6C4D84CF66","PostalCode":"2345432","Sex":"男","BirthYear":1234},"MessageId":"0CD9DFAD-0357-4EC2-9D3A-2BA257267BE9","SequenceCount":0,"ReplyToken":"","Inverted":false}
+{"Inverted":false,"Text":["腰部損傷"],"MessageId":"0CD9DFAD-0357-4EC2-9D3A-2BA257267BE9","Form":{"UserId":"E08C3CE2-BBDE-4287-877B-AA6C4D84CF66","PostalCode":"2345432","Sex":"男","BirthYear":1234},"SequenceCount":0,"ReplyToken":"7e2813c47be641be2cf8cc721c57737f6b564dce04a885b29a0095d4"}
+{"ReplyToken":"","SequenceCount":0,"Text":["けが"],"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"MessageId":"EB924A24-DC66-445B-8676-CF9BE5D59EA6","Inverted":false}
+{"Text":["尿道外傷"],"SequenceCount":0,"MessageId":"EB924A24-DC66-445B-8676-CF9BE5D59EA6","ReplyToken":"00df4161bd9b37ee01eddc8dd7249ac4015b9c8240e0a7f74be324c9","Inverted":false,"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234}}
+{"Text":["腰のけが"],"Inverted":false,"ReplyToken":"","SequenceCount":0,"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"MessageId":"C12ED7EC-70C5-4647-83B8-72CB69128888"}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"ReplyToken": "", "Text": ["\u3051\u304c"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"ReplyToken":"","Inverted":false,"Text":["け"],"SequenceCount":0,"MessageId":"80054B5A-77C5-4AB4-827E-6AFB6DA6EAAC"}
+{"MessageId":"42370E50-2002-4392-A39D-50B5B42CDF4B","Text":["けが"],"Inverted":false,"SequenceCount":0,"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"ReplyToken":""}
+{"ReplyToken":"e2ac2e03cce4510c9834cd5136572945b39334ce7379aea718350081","Text":["腹部外傷"],"Inverted":false,"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"MessageId":"42370E50-2002-4392-A39D-50B5B42CDF4B","SequenceCount":0}
+{"ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601", "Text": ["\u9854\u9762\u632b\u50b7"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"Inverted":false,"ReplyToken":"","Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"MessageId":"68B6F374-2BA3-4406-A5B7-B34E79006F12","Text":["腰"],"SequenceCount":0}
+{"Text":["腰がいたい"],"SequenceCount":0,"ReplyToken":"","Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"Inverted":false,"MessageId":"FD23475C-1188-4FB3-A917-3223C8CE6097"}
+{"ReplyToken": "", "Text": ["\u9854\u9762\u632b\u50b7"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": true}
+{"ReplyToken": "", "Text": ["\u9854\u9762\u632b\u50b7"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": true}
+{"ReplyToken": "", "Text": ["\u3051\u304c"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601", "Text": ["\u982d\u90e8\u5916\u50b7"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"ReplyToken": "", "Text": ["\u3051\u304c"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601", "Text": ["\u982d\u90e8\u5916\u50b7"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"ReplyToken": "", "Text": ["\u982d", "\u3051\u304c"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": false}
+{"ReplyToken": "", "Text": ["\u982d", "\u3051\u304c"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": true}
+{"ReplyToken": "", "Text": ["\u982d", "\u3051\u304c"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": true}
+{"Inverted":true,"MessageId":"D8389E1F-F5D0-464D-866F-EF0371AB6653","Text":["腰痛"],"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"SequenceCount":0,"ReplyToken":""}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"MessageId":"39A643F7-E992-4734-9B07-1B11B59790E3","Inverted":true,"Text":["腰痛"],"SequenceCount":0,"ReplyToken":""}
+{"Inverted":true,"MessageId":"0C794676-2CC1-43E6-A2E3-9114389BE2AE","Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"SequenceCount":0,"Text":["腰痛"],"ReplyToken":""}
+{"Inverted":true,"ReplyToken":"","Text":["けが"],"SequenceCount":0,"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"MessageId":"78F4E1FE-B66C-4AAE-A702-6208AB63302D"}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰痛"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のけが"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のけが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰部損傷"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰部損傷"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰部"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["不明熱"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰痛"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["不明熱"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{"Inverted":true,"SequenceCount":0,"ReplyToken":"","Text":["不明熱"],"Form":{"UserId":"70A4DB88-4560-4658-A2FB-93ADDE32F7EE","PostalCode":"1234567","Sex":"男","BirthYear":1234},"MessageId":"E9A05E00-32C1-40D8-8D47-BCF94178519C"}
+{"SequenceCount":0,"MessageId":"EA2AFFBD-BBB0-404E-BBDA-779940EC0A5B","ReplyToken":"","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":1234},"Text":["けが"],"Inverted":false}
+{"SequenceCount":0,"MessageId":"EA2AFFBD-BBB0-404E-BBDA-779940EC0A5B","ReplyToken":"2184564027d215f517b975af3f50830ad17ed4db3ba270d1a4d7b373","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":1234},"Text":["尿道外傷"],"Inverted":false}
+{"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":1234},"MessageId":"7A987105-59EA-422F-8FB1-5903CA56F784","Inverted":false,"Text":["腰","けが"],"SequenceCount":0,"ReplyToken":""}
+{"Inverted":true,"MessageId":"A2FD0DD0-1FFB-47A3-9DC0-59EE406147D3","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":1234},"SequenceCount":0,"ReplyToken":"","Text":["不明熱"]}
+{"SequenceCount":0,"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":1234},"ReplyToken":"","Inverted":false,"MessageId":"FAEADC04-A376-46B0-BB32-FAF15767F2D2","Text":["けが"]}
+{"MessageId":"F026BF91-E466-4CD1-9AA3-2C57867463D4","ReplyToken":"","Text":["けが"],"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"Inverted":false,"SequenceCount":0}
+{"Text":["けが"],"ReplyToken":"","Inverted":false,"SequenceCount":0,"MessageId":"DD63EC9E-67D4-46B2-80FC-5D6582D9741C","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355}}
+{"ReplyToken": "", "Text": ["\u982d", "\u3051\u304c"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": true}
+{"Text":["けが"],"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"SequenceCount":0,"ReplyToken":"","Inverted":false,"MessageId":"FF331C67-9D64-4E1A-BD0B-E5560197B080"}
+{"MessageId":"FF331C67-9D64-4E1A-BD0B-E5560197B080","Text":["上肢外傷"],"Inverted":false,"ReplyToken":"e66c13fa92620c9ba0c5d0201c53b1aa6bc321ce0120b129486f0747","SequenceCount":0,"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355}}
+{"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"SequenceCount":0,"Text":["けが",""],"MessageId":"1D97F0E9-2904-4644-B1CC-E85E5C6CF4DA","Inverted":false,"ReplyToken":""}
+{"SequenceCount":0,"Inverted":false,"MessageId":"71038A26-53F6-4E4A-B481-FF5866707517","Text":["けが"],"ReplyToken":"","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355}}
+{"Text":["上肢外傷"],"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"MessageId":"71038A26-53F6-4E4A-B481-FF5866707517","ReplyToken":"efb960db3a0d7a95ec340f18ee3c52b14414f00691bd4ba68447037b","SequenceCount":0,"Inverted":false}
+{"ReplyToken": "", "Text": ["\u539f\u56e0\u4e0d\u660e\u306a\u71b1"], "Form": {"UserId": "abcd", "Sex": "male", "BirthYear": "2021", "PostalCode": "123456"}, "MessageId": "abcd", "Inverted": true}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["不明熱"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰のけが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"SequenceCount":0,"Text":["頭痛"],"Inverted":false,"MessageId":"D658DA3D-4DAF-49C4-B8B6-DD6B14AAAE5F","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"ReplyToken":""}
+{"Inverted":false,"SequenceCount":0,"Text":["けが"],"ReplyToken":"","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"MessageId":"8213321D-4295-41B7-ABD2-7E457D3A924D"}
+{"Text":["頭部外傷"],"Inverted":false,"ReplyToken":"e4274e9a29c359d4675df29ab0c7e0976eeedf5bb350ae7acff70f4c","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"MessageId":"8213321D-4295-41B7-ABD2-7E457D3A924D","SequenceCount":0}
+{"Text":["けが"],"ReplyToken":"","MessageId":"2D76DE59-2756-4A0E-ADE9-814484589466","Inverted":false,"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"SequenceCount":0}
+{"ReplyToken":"","Inverted":false,"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"SequenceCount":0,"MessageId":"1D6265C4-457C-43C5-92AD-F2E24A85F951","Text":["けが"]}
+{"MessageId":"7153F163-6635-4ED5-8319-8AFCD1BCF3C0","ReplyToken":"","Inverted":false,"SequenceCount":0,"Text":["けが"],"Form":{"UserId":"98C03B3C-7C50-437C-9202-198979D9175E","PostalCode":"1234565","Sex":"男","BirthYear":1234}}
+{"Form":{"UserId":"98C03B3C-7C50-437C-9202-198979D9175E","PostalCode":"1234565","Sex":"男","BirthYear":1234},"Text":["頭部外傷"],"MessageId":"7153F163-6635-4ED5-8319-8AFCD1BCF3C0","Inverted":false,"SequenceCount":0,"ReplyToken":"a11bdf48928bf77993902d41b40ebe95c5b10f0f7671e09256b1ac89"}
+{"MessageId":"6E49206A-1C18-43DF-8359-B2FEB6B17D6F","Inverted":false,"ReplyToken":"","SequenceCount":0,"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"Text":["けが"]}
+{"SequenceCount":0,"ReplyToken":"d0f2d3ed0ba5da2bc9f13ef2a8d0650f789ac3194b25b043003265b5","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"MessageId":"6E49206A-1C18-43DF-8359-B2FEB6B17D6F","Inverted":false,"Text":["顔面挫傷"]}
+{"MessageId":"4578CADC-6520-429D-9031-18397E8843A7","SequenceCount":0,"Text":["腰","けが"],"ReplyToken":"","Inverted":false,"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355}}
+{"SequenceCount":0,"ReplyToken":"","MessageId":"EDED59DF-C338-42AC-90C2-80380EB8BE52","Text":["けが"],"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"Inverted":false}
+{"MessageId":"EDED59DF-C338-42AC-90C2-80380EB8BE52","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"Text":["腹部外傷"],"ReplyToken":"26ec2e73d43956e7dbe73e632ffa684893ea1f95027d8a409175d639","SequenceCount":0,"Inverted":false}
+{"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"MessageId":"BD1737D6-FDD7-426E-B7B9-B60287E7CD27","Inverted":false,"ReplyToken":"","SequenceCount":0,"Text":["けが"]}
+{"ReplyToken":"","SequenceCount":0,"Inverted":false,"MessageId":"0D47EFCC-540F-43F6-849A-798FC2E59CB8","Text":["けが"],"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355}}
+{"SequenceCount":0,"ReplyToken":"6a66bec87945752b71c5552f3e4e438a74634205b36c5f92a26e50bf","Inverted":false,"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"MessageId":"0D47EFCC-540F-43F6-849A-798FC2E59CB8","Text":["上肢外傷"]}
+{"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"Inverted":false,"MessageId":"C4C3FBB2-3446-4649-A8DF-7943DD530083","SequenceCount":0,"Text":["けが"],"ReplyToken":""}
+{"SequenceCount":0,"ReplyToken":"1fdc3942826b969ac8f660a37c5f3a718a6f1f2663e3d2f8d8bc3347","Text":["腰部損傷"],"MessageId":"C4C3FBB2-3446-4649-A8DF-7943DD530083","Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"Inverted":false}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": ["頸部外傷"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"SequenceCount":0,"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"Text":["けが","腰"],"ReplyToken":"","MessageId":"E8D86742-24D1-4ACA-A4B6-2888339453E3","Inverted":false}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "a76654d8e3550e9a2d67a0eeb6c67b220e5885eddd3fde135806e601",
+    "Text": ["けが", "腰"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["けが", "腰"],
+    "Inverted": false,
+    "SequenceCount": 0
+}
+{"Form":{"UserId":"0AB8DAF6-1F58-46C5-8131-E65DCA8BA7F9","PostalCode":"4324324","Sex":"男","BirthYear":4355},"Text":["腰部損傷"],"MessageId":"27149B03-F6DA-4EDE-AAB1-FA6050FBE844","Inverted":true,"ReplyToken":"","SequenceCount":0}
+{  
+    "Form": {
+        "UserId": "abcd",
+        "Sex": "male",
+        "BirthYear": 2021,
+        "PostalCode": "123456"
+    },
+    "MessageId": "abcd",
+    "ReplyToken": "",
+    "Text": ["腰部損傷"],
+    "Inverted": true,
+    "SequenceCount": 0
+}
